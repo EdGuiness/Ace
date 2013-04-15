@@ -1,0 +1,8 @@
+^foo\b
+FOOBAR
+FOO BAR
+foody
+bar foo
+foofoo
+foo, bar
+FOO!

@@ -1,0 +1,5 @@
+C:\Users\Ed\Documents\Visual Studio 11\Projects\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Ed\Documents\Visual Studio 11\Projects\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Ed\Documents\Visual Studio 11\Projects\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Ed\Documents\Visual Studio 11\Projects\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Ed\Documents\Visual Studio 11\Projects\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

@@ -1,0 +1,6 @@
+My dog has no (\w+)
+My dog has no nose
+My dog has no canines
+My dog has no k9s
+My dog has no !*?#!!
+My dog has no nose, ask me how he smells

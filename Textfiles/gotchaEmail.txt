@@ -1,0 +1,7 @@
+\w+@[A-Za-z_]+?.[A-Za-z]{2,6}
+admin@37signals.com
+the.president@whitehouse.gov
+number10@downingstreet.gov
+admin@downingstreet.gov.uk
+admin@com.org.
+a@b@c.com

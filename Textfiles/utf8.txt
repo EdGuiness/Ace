@@ -1,0 +1,11 @@
+﻿"[^"]*"
+I "fail" to "see" the irony
+\d
+.
+-
++
+0
+99
+grvy
+gravy
+graaaaaaaaaaaaaaavy

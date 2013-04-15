@@ -1,0 +1,5 @@
+C:\Users\Ed\Google Drive\CV Mountain\Wiley Book\Code\Twiddle\Twiddle\bin\Debug\Twiddle.exe
+C:\Users\Ed\Google Drive\CV Mountain\Wiley Book\Code\Twiddle\Twiddle\bin\Debug\Twiddle.pdb
+C:\Users\Ed\Google Drive\CV Mountain\Wiley Book\Code\Twiddle\Twiddle\obj\Debug\Twiddle.csprojResolveAssemblyReference.cache
+C:\Users\Ed\Google Drive\CV Mountain\Wiley Book\Code\Twiddle\Twiddle\obj\Debug\Twiddle.exe
+C:\Users\Ed\Google Drive\CV Mountain\Wiley Book\Code\Twiddle\Twiddle\obj\Debug\Twiddle.pdb

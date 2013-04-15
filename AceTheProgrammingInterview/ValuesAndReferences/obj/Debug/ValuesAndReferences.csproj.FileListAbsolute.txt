@@ -1,0 +1,5 @@
+C:\Users\Ed\Google Drive\CV Mountain\Wiley Book\Code\ConsoleApplication1\ValuesAndReferences\bin\Debug\ValuesAndReferences.exe
+C:\Users\Ed\Google Drive\CV Mountain\Wiley Book\Code\ConsoleApplication1\ValuesAndReferences\bin\Debug\ValuesAndReferences.pdb
+C:\Users\Ed\Google Drive\CV Mountain\Wiley Book\Code\ConsoleApplication1\ValuesAndReferences\obj\Debug\ValuesAndReferences.exe
+C:\Users\Ed\Google Drive\CV Mountain\Wiley Book\Code\ConsoleApplication1\ValuesAndReferences\obj\Debug\ValuesAndReferences.pdb
+C:\Users\Ed\Google Drive\CV Mountain\Wiley Book\Code\ConsoleApplication1\ValuesAndReferences\obj\Debug\ValuesAndReferences.csprojResolveAssemblyReference.cache

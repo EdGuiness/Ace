@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="1ea892f7-befb-4868-aa7b-3853668eccf6" name="Ed@ZENBOOK 2013-02-07 12:55:04" runUser="Zenbook\Ed" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="cbe47aa6-acb3-4daa-8900-195c6e675b8a">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Ed_ZENBOOK 2013-02-07 12_55_04" />
+  </TestSettings>
+  <Times creation="2013-02-07T12:55:04.8864193+00:00" queuing="2013-02-07T12:55:05.4824534+00:00" start="2013-02-07T12:55:05.5744586+00:00" finish="2013-02-07T12:55:06.0804876+00:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" passed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="IsLeapYear2013" storage="unittests.exe" id="d640346c-ec79-71a9-5245-8805456336ce">
+      <Execution id="3a81304f-1292-43b8-a69f-26c0a0d6a3e2" />
+      <TestMethod codeBase="C:/Users/Ed/Google Drive/CV Mountain/Wiley Book/Code/UnitTests/UnitTests/bin/Debug/UnitTests.exe" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTests.TestClass, UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="IsLeapYear2013" />
+    </UnitTest>
+    <UnitTest name="IsLeapYear1900" storage="unittests.exe" id="21627e55-663f-5cfe-fc0b-4915bdb88570">
+      <Execution id="58366f4a-3ffa-44e5-8cf3-dc96851e81be" />
+      <TestMethod codeBase="C:/Users/Ed/Google Drive/CV Mountain/Wiley Book/Code/UnitTests/UnitTests/bin/Debug/UnitTests.exe" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTests.TestClass, UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="IsLeapYear1900" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="21627e55-663f-5cfe-fc0b-4915bdb88570" executionId="58366f4a-3ffa-44e5-8cf3-dc96851e81be" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d640346c-ec79-71a9-5245-8805456336ce" executionId="3a81304f-1292-43b8-a69f-26c0a0d6a3e2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="58366f4a-3ffa-44e5-8cf3-dc96851e81be" testId="21627e55-663f-5cfe-fc0b-4915bdb88570" testName="IsLeapYear1900" computerName="ZENBOOK" duration="00:00:00.0712616" startTime="2013-02-07T12:55:05.6244615+00:00" endTime="2013-02-07T12:55:06.0204841+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="58366f4a-3ffa-44e5-8cf3-dc96851e81be">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method UnitTests.TestClass.IsLeapYear1900 threw exception: 
+Microsoft.VisualStudio.TestTools.UnitTesting.AssertFailedException: Assert.IsFalse failed. </Message>
+          <StackTrace>   at UnitTests.TestClass.IsLeapYear1900() in c:\Users\Ed\Google Drive\CV Mountain\Wiley Book\Code\UnitTests\UnitTests\MSTest.cs:line 17
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="3a81304f-1292-43b8-a69f-26c0a0d6a3e2" testId="d640346c-ec79-71a9-5245-8805456336ce" testName="IsLeapYear2013" computerName="ZENBOOK" duration="00:00:00.0002491" startTime="2013-02-07T12:55:06.0294846+00:00" endTime="2013-02-07T12:55:06.0334849+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3a81304f-1292-43b8-a69f-26c0a0d6a3e2">
+    </UnitTestResult>
+  </Results>
+</TestRun>

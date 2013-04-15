@@ -1,0 +1,2 @@
+(\</?[^\>]+\>)
+<a title=">>click here!" href="goofy.com">
